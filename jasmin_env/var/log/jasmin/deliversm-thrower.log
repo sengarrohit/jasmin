@@ -1,0 +1,4 @@
+2021-11-15 17:08:24 INFO     68841 Thrower configured and ready.
+2021-11-15 17:08:24 INFO     68841 Added a direct access to SMPPServerFactory
+2021-11-15 17:08:24 INFO     68841 Added amqpBroker
+2021-11-15 17:08:24 INFO     68841 Consuming from routing key: deliver_sm_thrower.*

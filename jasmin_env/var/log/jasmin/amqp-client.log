@@ -1,0 +1,13 @@
+2021-11-15 17:08:24 INFO     68841 Connecting to IPv4Address(type='TCP', host='127.0.0.1', port=5672) ...
+2021-11-15 17:08:24 INFO     68841 Connection made to 127.0.0.1:5672
+2021-11-15 17:08:24 INFO     68841 Successfull authentication
+2021-11-15 17:08:24 INFO     68841 Got channel
+2021-11-15 17:08:24 INFO     68841 The channel is open
+2021-11-15 17:08:24 INFO     68841 A new queue has been successfully declared [RouterPB_deliver_sm_all]
+2021-11-15 17:08:24 INFO     68841 A new queue has been successfully declared [RouterPB_bill_request_submit_sm_resp_all]
+2021-11-15 17:08:24 INFO     68841 A new queue has been successfully declared [deliver_sm_thrower]
+2021-11-15 17:08:24 INFO     68841 A new queue has been successfully declared [submit.sm.GTS-CONNECTOR]
+2021-11-15 17:08:24 INFO     68841 A new queue has been successfully declared [submit.sm.GTS-POC]
+2021-11-15 18:23:17 INFO     68841 Connection lost. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Reconnecting after 10 seconds ...

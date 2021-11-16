@@ -1,0 +1,40 @@
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connecting ...
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 17:08:24 INFO     68841 Connection made
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 18:23:17 INFO     68841 Lost connection.  Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]

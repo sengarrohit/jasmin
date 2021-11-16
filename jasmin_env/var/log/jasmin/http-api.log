@@ -1,0 +1,7 @@
+2021-11-08 12:59:34 INFO     17105 SMS-MT [uid:rohit] [cid:GTS-CONNECTOR] [msgid:06ee2ba7-62cc-4713-b9cc-72a18054796a] [prio:0] [dlr:All] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']
+2021-11-08 14:54:33 INFO     17105 SMS-MT [uid:rohit] [cid:GTS-CONNECTOR] [msgid:2ca7da4c-b4d8-4eeb-a745-4a2bb4b98625] [prio:0] [dlr:All] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']
+2021-11-08 18:22:31 INFO     17105 SMS-MT [uid:poc] [cid:GTS-POC] [msgid:f8eb51f9-ff55-422a-a08d-35ebc0a03482] [prio:0] [dlr:All] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']
+2021-11-08 18:25:33 INFO     17105 SMS-MT [uid:poc] [cid:GTS-POC] [msgid:07dd6f7b-559a-421c-8b40-dc2723d9e154] [prio:0] [dlr:All] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']
+2021-11-08 18:31:13 INFO     17105 SMS-MT [uid:poc] [cid:GTS-POC] [msgid:37b23b09-1eb7-4c53-92fa-67c8833892c0] [prio:0] [dlr:All] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']
+2021-11-08 19:03:19 INFO     17105 SMS-MT [uid:poc] [cid:GTS-POC] [msgid:0e207556-3ac8-4daa-8568-21731db25a65] [prio:0] [dlr:No] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']
+2021-11-08 19:07:33 INFO     17105 SMS-MT [uid:poc] [cid:GTS-POC] [msgid:ba09b377-04eb-4092-97fc-54ff0793c85f] [prio:0] [dlr:No] [from:None] [to:b'918882445465'] [content:b'Hello from Rohit Rest Client']

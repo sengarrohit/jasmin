@@ -1,0 +1,18 @@
+2021-11-15 17:08:24 INFO     68841 SMPP Client manager configured and ready.
+2021-11-15 17:08:24 INFO     68841 Added amqpBroker to SMPPClientManagerPB
+2021-11-15 17:08:24 INFO     68841 Added Redis Client to SMPPClientManagerPB
+2021-11-15 17:08:24 INFO     68841 Added RouterPB to SMPPClientManagerPB
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.smppccs
+2021-11-15 17:08:24 INFO     68841 Binding submit.sm.GTS-CONNECTOR queue to submit.sm.GTS-CONNECTOR route_key
+2021-11-15 17:08:24 INFO     68841 Added a new connector: GTS-CONNECTOR
+2021-11-15 17:08:24 INFO     68841 SMPPClientFactory-GTS-CONNECTOR is consuming from queue: submit.sm.GTS-CONNECTOR
+2021-11-15 17:08:24 INFO     68841 Started connector [GTS-CONNECTOR]
+2021-11-15 17:08:24 INFO     68841 Binding submit.sm.GTS-POC queue to submit.sm.GTS-POC route_key
+2021-11-15 17:08:24 INFO     68841 Added a new connector: GTS-POC
+2021-11-15 17:08:24 INFO     68841 SMPPClientFactory-GTS-POC is consuming from queue: submit.sm.GTS-POC
+2021-11-15 17:08:24 INFO     68841 Started connector [GTS-POC]
+2021-11-15 17:11:21 INFO     68841 Returning a list of 2 connectors
+2021-11-15 17:12:28 INFO     68841 Returning a list of 2 connectors
+2021-11-15 17:14:28 INFO     68841 Returning a list of 2 connectors
+2021-11-15 17:15:21 INFO     68841 Returning a list of 2 connectors
+2021-11-15 17:17:24 INFO     68841 Returning a list of 2 connectors

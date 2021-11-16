@@ -1,0 +1,8 @@
+2021-11-08 12:53:31 INFO     35872 Started DLRLookup #dlrlookupd-01.
+2021-11-08 12:53:31 INFO     35872 DLRLookup (dlrlookupd-01) is ready.
+2021-11-08 18:23:18 ERROR    35872 [msgid:9E719DFC-58B2-4160-AF3F-77810D3F9958] (retrials: 1/2) DLRMapNotFound: Got a DLR for an unknown message id: 9e719dfc-58b2-4160-af3f-77810d3f9958 (coded:9E719DFC-58B2-4160-AF3F-77810D3F9958)
+2021-11-08 18:24:14 INFO     35872 DLR [cid:GTS-POC] [smpp-msgid:9E719DFC-58B2-4160-AF3F-77810D3F9958] [status:DELIVRD] [submit date:2111081822] [done date:2111081822] [sub/dlvrd messages:ND/ND] [err:ND] [content:'']
+2021-11-08 18:25:50 ERROR    35872 [msgid:DE5AC799-F5B8-4A74-AD7E-751249F67702] (retrials: 1/2) DLRMapNotFound: Got a DLR for an unknown message id: de5ac799-f5b8-4a74-ad7e-751249f67702 (coded:DE5AC799-F5B8-4A74-AD7E-751249F67702)
+2021-11-08 18:26:32 INFO     35872 DLR [cid:GTS-POC] [smpp-msgid:DE5AC799-F5B8-4A74-AD7E-751249F67702] [status:DELIVRD] [submit date:2111081825] [done date:2111081825] [sub/dlvrd messages:ND/ND] [err:ND] [content:'']
+2021-11-08 18:31:20 ERROR    35872 [msgid:6C0E68E3-35F4-424C-83DA-C1F7D417047F] (retrials: 1/2) DLRMapNotFound: Got a DLR for an unknown message id: 6c0e68e3-35f4-424c-83da-c1f7d417047f (coded:6C0E68E3-35F4-424C-83DA-C1F7D417047F)
+2021-11-08 18:32:22 INFO     35872 DLR [cid:GTS-POC] [smpp-msgid:6C0E68E3-35F4-424C-83DA-C1F7D417047F] [status:DELIVRD] [submit date:2111081831] [done date:2111081831] [sub/dlvrd messages:ND/ND] [err:ND] [content:'']

@@ -1,0 +1,25 @@
+2021-11-15 17:08:24 INFO     68841 Router configured and ready.
+2021-11-15 17:08:24 INFO     68841 Added amqpBroker to RouterPB
+2021-11-15 17:08:24 INFO     68841 RouterPB is consuming from routing key: deliver.sm.*
+2021-11-15 17:08:24 INFO     68841 RouterPB is consuming from routing key: bill_request.submit_sm_resp.*
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile Groups configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.router-groups
+2021-11-15 17:08:24 INFO     68841 Removing current Groups (0)
+2021-11-15 17:08:24 INFO     68841 Removing all groups
+2021-11-15 17:08:24 INFO     68841 Added new Groups (1)
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile Users configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.router-users
+2021-11-15 17:08:24 INFO     68841 Removing current Users (0)
+2021-11-15 17:08:24 INFO     68841 Removing all users
+2021-11-15 17:08:24 INFO     68841 Added new Users (2)
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile MO Interceptors configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.router-mointerceptors
+2021-11-15 17:08:24 INFO     68841 Added new MOInterceptionTable with 0 routes
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile MT Interceptors configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.router-mtinterceptors
+2021-11-15 17:08:24 INFO     68841 Added new MTInterceptionTable with 0 routes
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile MO Routes configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.router-moroutes
+2021-11-15 17:08:24 INFO     68841 Added new MORoutingTable with 0 routes
+2021-11-15 17:08:24 INFO     68841 Loading/Activating [jcli-prod] profile MT Routes configuration from /home/rohit/PycharmProjects/jasmin/jasmin_env/etc/jasmin//store//jcli-prod.router-mtroutes
+2021-11-15 17:08:24 INFO     68841 Added new MTRoutingTable with 2 routes
+2021-11-15 17:12:31 INFO     68841 Getting all users
+2021-11-15 17:12:31 INFO     68841 Getting all groups
+2021-11-15 17:14:28 INFO     68841 Getting MT Routing table
+2021-11-15 17:15:22 INFO     68841 Getting MO Routing table
+2021-11-15 17:17:24 INFO     68841 Getting MT Routing table

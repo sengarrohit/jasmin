@@ -1,0 +1,43 @@
+2021-11-15 17:08:24 INFO     68841 Establishing TCP connection to 62.67.222.27:2875
+2021-11-15 17:08:24 INFO     68841 Connecting to IPv4Address(type='TCP', host='62.67.222.27', port=2875) ...
+2021-11-15 17:08:25 WARNING  68841 SMPP connection established from 62.67.222.27 to port 51612
+2021-11-15 17:08:25 INFO     68841 Connection made to 62.67.222.27:2875
+2021-11-15 17:08:25 WARNING  68841 Requesting bind as transceiver
+2021-11-15 17:08:25 WARNING  68841 Bind succeeded...now in state SMPPSessionStates.BOUND_TRX
+2021-11-15 17:53:14 ERROR    68841 Request timed out after 120 secs: PDU [command: CommandId.enquire_link, sequence_number: 82, command_status: CommandStatus.ESME_ROK
+]
+2021-11-15 17:53:14 WARNING  68841 Shutdown requested...unbinding
+2021-11-15 17:53:14 INFO     68841 Waiting for in-progress transactions to finish...
+2021-11-15 17:53:44 ERROR    68841 Request timed out after 120 secs: PDU [command: CommandId.enquire_link, sequence_number: 83, command_status: CommandStatus.ESME_ROK
+]
+2021-11-15 17:54:14 ERROR    68841 Request timed out after 120 secs: PDU [command: CommandId.enquire_link, sequence_number: 84, command_status: CommandStatus.ESME_ROK
+]
+2021-11-15 17:54:44 ERROR    68841 Request timed out after 120 secs: PDU [command: CommandId.enquire_link, sequence_number: 85, command_status: CommandStatus.ESME_ROK
+]
+2021-11-15 17:54:44 WARNING  68841 Issuing unbind request
+2021-11-15 17:55:12 CRITICAL 68841 Response PDU received with unknown outbound transaction sequence number PDU [command: CommandId.enquire_link_resp, sequence_number: 82, command_status: CommandStatus.ESME_ROK
+]
+2021-11-15 17:55:14 ERROR    68841 Request timed out after 30 secs: PDU [command: CommandId.unbind, sequence_number: 86, command_status: CommandStatus.ESME_ROK
+]
+2021-11-15 17:55:14 ERROR    68841 Unbind failed [[Failure instance: Traceback (failure with no frames): <class 'smpp.pdu.error.SMPPRequestTimoutError'>: Request timed out after 30 secs: PDU [command: CommandId.unbind, sequence_number: 86, command_status: CommandStatus.ESME_ROK
+]
+]]. Disconnecting...
+2021-11-15 17:55:14 WARNING  68841 Disconnecting...
+2021-11-15 17:55:14 WARNING  68841 Disconnecting...
+2021-11-15 17:55:14 WARNING  68841 Shutdown requested...disconnecting
+2021-11-15 17:55:14 WARNING  68841 Disconnecting...
+2021-11-15 17:55:14 WARNING  68841 SMPP 62.67.222.27 disconnected from port 51612: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 17:55:14 ERROR    68841 Connection lost. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.
+]
+2021-11-15 17:55:14 INFO     68841 Reconnecting after 10 seconds ...
+2021-11-15 17:55:24 INFO     68841 Connecting to IPv4Address(type='TCP', host='62.67.222.27', port=2875) ...
+2021-11-15 17:55:24 WARNING  68841 SMPP connection established from 62.67.222.27 to port 55410
+2021-11-15 17:55:24 INFO     68841 Connection made to 62.67.222.27:2875
+2021-11-15 17:55:24 WARNING  68841 Requesting bind as transceiver
+2021-11-15 17:55:24 WARNING  68841 Bind succeeded...now in state SMPPSessionStates.BOUND_TRX
+2021-11-15 18:23:17 WARNING  68841 SMPP 62.67.222.27 disconnected from port 55410: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+2021-11-15 18:23:17 ERROR    68841 Connection lost. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+2021-11-15 18:23:17 INFO     68841 Reconnecting after 10 seconds ...

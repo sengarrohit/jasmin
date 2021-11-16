@@ -1,0 +1,11 @@
+2021-11-15 17:08:24 INFO     68841 Establishing TCP connection to 172.20.0.57:2775
+2021-11-15 17:08:24 INFO     68841 Connecting to IPv4Address(type='TCP', host='172.20.0.57', port=2775) ...
+2021-11-15 17:08:24 WARNING  68841 SMPP connection established from 172.20.0.57 to port 41876
+2021-11-15 17:08:24 INFO     68841 Connection made to 172.20.0.57:2775
+2021-11-15 17:08:24 WARNING  68841 Requesting bind as transceiver
+2021-11-15 17:08:24 WARNING  68841 Bind succeeded...now in state SMPPSessionStates.BOUND_TRX
+2021-11-15 18:23:17 WARNING  68841 SMPP 172.20.0.57 disconnected from port 41876: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+2021-11-15 18:23:17 ERROR    68841 Connection lost. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+]
+2021-11-15 18:23:17 INFO     68841 Reconnecting after 10 seconds ...
